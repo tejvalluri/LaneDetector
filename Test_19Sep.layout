@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\CartesianBuilder.h" open="0" top="0" tabpos="5">
+		<Cursor position="656" topLine="10" />
+	</File>
+	<File name="include\LaneSwitcher.h" open="1" top="0" tabpos="3">
+		<Cursor position="515" topLine="5" />
+	</File>
+	<File name="include\ObjectDetection.h" open="0" top="0" tabpos="6">
+		<Cursor position="211" topLine="0" />
+	</File>
+	<File name="include\helpers.h" open="0" top="0" tabpos="0">
+		<Cursor position="154" topLine="0" />
+	</File>
+	<File name="src\CartesianBuilder.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2052" topLine="86" />
+	</File>
+	<File name="src\DetectTrafficSignal.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1781" topLine="39" />
+	</File>
+	<File name="src\LaneSwitcher.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1467" topLine="65" />
+	</File>
+	<File name="src\ObjectDetection.Cpp" open="0" top="0" tabpos="7">
+		<Cursor position="65" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="3238" topLine="103" />
+	</File>
+</CodeBlocks_layout_file>
